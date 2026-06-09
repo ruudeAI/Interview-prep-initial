@@ -80,19 +80,10 @@ python interview_prep_generator.py --provider local --local-model "llama3" --com
 
 ---
 
-## Sample PDF Layout Placeholder
-Generated PDFs follow a strict design system (deep navy primary, steel blue secondary, coral-red alerts):
-```
-+-----------------------------------------------------------+
-|              INTERVIEW PREP GUIDE: CLOUDCORP              |
-|                   Role: Security Analyst                  |
-|                 Prepared for: Jane Doe                    |
-|                                                           |
-| Q1. (Technical) What is the difference between IDS/IPS?   |
-|     Tailored Answer: [STAR Method Narrative]              |
-|     Key Terms: IDS, IPS, Signature Detection              |
-+-----------------------------------------------------------+
-```
+## Demo Output Preview
+Below is a preview of the premium PDF document page layout generated in demo mode:
+
+![Demo Output Preview](assets/demo-output-preview.png)
 
 ---
 
