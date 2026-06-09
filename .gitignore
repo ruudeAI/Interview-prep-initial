@@ -1,0 +1,36 @@
+# API keys & secrets
+.env
+.env.*
+!.env.example
+
+# Candidate Resumes & Documents (Confidential Info)
+*.docx
+*.pdf
+*.doc
+*.docx
+*.rtf
+Hrudhay_Kumar_Updated.docx
+Hrudhay_RUC.docx
+Hrudhay_Cybersecurity_Interview_Defense_Master_Guide.md
+
+# Generated PDFs and guides
+*_Interview_Prep.pdf
+*_Interview_Defense_Master_Guide.pdf
+*Guide.pdf
+
+# Python environment/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+.venv/
+env/
+ENV/
+
+# Editor/OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
